@@ -11,7 +11,7 @@ const links = [
     { id: 'home', label: 'About ARTEMIS' },
     { id: 'features', label: 'Features' },
     { id: 'work', label: 'How ARTEMIS Works' },
-    { id: 'project', label: 'Artemis Project' },
+    { id: 'project', label: 'ARTEMIS Project' },
     { id: 'join', label: 'Join ARTEMIS' },
     { id: 'cg', label: 'C & G' },
 ]
@@ -224,7 +224,7 @@ function App() {
 
                     <div className='relative  mb-24'>
                         <img className='relative z-10 h-7 md:h-9' src={ArtemisProject} />
-                        <div className=' absolute text-center top-0 left-0 right-0 z-20 text-xl md:text-2xl font-medium'>Artemis Project</div>
+                        <div className=' absolute text-center top-0 left-0 right-0 z-20 text-xl md:text-2xl font-medium'>ARTEMIS Project</div>
                     </div>
 
 
